@@ -1,0 +1,16 @@
+.navBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+  cursor: pointer;
+  background: black;
+  color: white;
+}
+p a:hover {
+  color: aqua;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
